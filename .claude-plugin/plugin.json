@@ -1,0 +1,9 @@
+{
+  "name": "usage-band",
+  "version": "0.1.0",
+  "description": "Barra mínima acima do prompt: contexto usado, limites de 5h e 7 dias com reset, skills chamadas. Comando /barra.",
+  "author": { "name": "GabrielL915", "url": "https://github.com/GabrielL915" },
+  "repository": "https://github.com/GabrielL915/claude-usage-band",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
