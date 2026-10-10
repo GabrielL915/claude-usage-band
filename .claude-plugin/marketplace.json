@@ -1,5 +1,13 @@
 {
   "name": "gabriell915",
-  "owner": { "name": "GabrielL915" },
-  "plugins": [{ "name": "usage-band", "source": "./" }]
+  "owner": {
+    "name": "GabrielL915"
+  },
+  "plugins": [
+    {
+      "name": "usage-band",
+      "source": "./"
+    }
+  ],
+  "description": "Mods do Claude Code de GabrielL915"
 }
